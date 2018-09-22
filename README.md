@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This is about exploring baseball data using Python.
+This is about baseball data analysis using Python. A five-step principle was used in the process which is ask qustion, wrangle data, explore data, draw conclusions and communicate.
 
 ### Questions
 
